@@ -1382,25 +1382,4 @@ We document in README as we go.
 
 
 
-Please pick one of these so we can begin:
-
-
-
-A. Create GitHub repo skeleton (I’ll give you folder + initial README text.)
-
-
-
-B. Confirm toolchain installation (CubeIDE version? Do you have CubeMX?)
-
-
-
-C. Start Sprint 1: GPIO blink + button read (We’ll generate a CubeMX .ioc together.)
-
-
-
-D. Something else you prefer (tell me).
-
-
-
-Let me know which one, and we’ll go step by step!
 
