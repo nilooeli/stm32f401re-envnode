@@ -1,4 +1,4 @@
-STM32F401RE Showcase Project Plan
+# Smart Environmental Node on STM32F401RE
 
 ![Block diagram](docs/fig_hw_block.png)
 
