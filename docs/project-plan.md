@@ -266,5 +266,5 @@ Breadboard + jumpers.
 
 LEDs + resistors (220 Ω–1 k Ω typical).
 
-Pushbuttons (momentary, normally open).
 
+Pushbuttons (momentary, normally open).
