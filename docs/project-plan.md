@@ -1,4 +1,4 @@
-STM32F401RE Showcase Project Plan
+Smart Environmental Node on STM32F401RE
 
 Goal: Build a polished, interview-ready embedded systems demo on the Nucleo-F401RE board that exercises a broad range of MCU peripherals and good engineering practices (architecture, documentation, version control, testing, demo script). Use the BMP280 environmental sensor (temp + pressure) plus a small set of low-cost components (LEDs, pushbuttons, potentiometer, maybe buzzer or small fan) to create a Smart Environmental Node you can extend with data logging, alerts, and optional Edge/ML hooks.
 
@@ -688,16 +688,3 @@ You test & report results.
 
 We document in README as we go.
 
-22. Next Action (Your Turn)
-
-Please pick one of these so we can begin:
-
-A. Create GitHub repo skeleton (I’ll give you folder + initial README text.)
-
-B. Confirm toolchain installation (CubeIDE version? Do you have CubeMX?)
-
-C. Start Sprint 1: GPIO blink + button read (We’ll generate a CubeMX .ioc together.)
-
-D. Something else you prefer (tell me).
-
-Let me know which one, and we’ll go step by step!
