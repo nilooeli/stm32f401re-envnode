@@ -54,7 +54,7 @@ dkms.conf
 # debug information files
 *.dwo
 
-# CubeIDE / CUbeMX
+# CubeIDE / CubeMX
 .settings/
 .project
 .cproject
