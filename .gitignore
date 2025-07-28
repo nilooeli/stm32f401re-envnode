@@ -56,9 +56,7 @@ dkms.conf
 
 # CubeIDE / CubeMX
 .settings/
-.project
-.cproject
 Debug/
 Release/
 build/
-*.mxproject
+
