@@ -689,3 +689,19 @@ I give you exact pin selections, code edits, and test procedure.
 You test & report results.
 
 We document in README as we go.
+
+## Quick Start
+
+### Prerequisites
+- **STM32CubeIDE** (1.13+ recommended)
+- **STM32CubeProgrammer** (includes the ST‑LINK USB driver)
+- **Board:** NUCLEO‑F401RE (or STM32F401RE + external ST‑LINK)
+- **Sensor:** BMP280 (I²C)
+- A **data** micro‑USB cable (for ST‑LINK)
+
+### 1) Clone
+```bash
+git clone https://github.com/nilooeli/stm32f401re-envnode.git
+cd stm32f401re-envnode
+# optional: check out the latest milestone tag
+# git checkout v0.2-sprint2
