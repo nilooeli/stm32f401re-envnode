@@ -8,8 +8,6 @@ Goal: Build a polished, interview-ready embedded systems demo on the Nucleo-F401
    
 “I designed and implemented a modular embedded system on an STM32F401RE Nucleo board that reads temperature and pressure from a BMP280 over I²C, logs and streams data over UART/USB, shows live status via LEDs/PWM, and demonstrates interrupts, DMA, timers, ADC-based user input, low-power modes, and an RTOS option. I produced SysML-style diagrams, hardware wiring drawings, and a reproducible GitHub repo with build instructions, test logs, and demo videos.”
 
-Keep this ~30 sec. Be ready to expand to 2 min using the topics below.
-
 2. High-Level Feature Coverage Map
 
 Feature Area
